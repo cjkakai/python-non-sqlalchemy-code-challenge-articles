@@ -38,7 +38,6 @@ class Article:
 
     @title.setter
     def title(self, value):
-        # Title is immutable → ignore reassignment
         pass
 
 
